@@ -1,0 +1,1 @@
+# HHA504_mysql_vm-vs_managed
